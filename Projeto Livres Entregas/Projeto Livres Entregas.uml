@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_e6GaUOWcEeyoAf_wNFgrjQ" name="Projeto Livres Entregas">
+  <ownedComment xmi:type="uml:Comment" xmi:id="_jGVmwOdIEeykaaMCEfxHyA" annotatedElement="_e6GaUOWcEeyoAf_wNFgrjQ">
+    <body>Validação do cadastros é realizada por meio de email, gerando um token para ativação do usuários.</body>
+  </ownedComment>
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_e95VMOWcEeyoAf_wNFgrjQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_yX-aQOdHEeykaaMCEfxHyA" name="Ecobiker"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_6tCnwOdHEeykaaMCEfxHyA" name="Efetuar cadastro">
+    <ownedComment xmi:type="uml:Comment" xmi:id="_oQL1cOdIEeykaaMCEfxHyA" annotatedElement="_6tCnwOdHEeykaaMCEfxHyA">
+      <body>Os ecobiker deveram realizar os cadastros de seus usuários no sistema.</body>
+    </ownedComment>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_9PMbcOdHEeykaaMCEfxHyA" name="Efetuar login">
+    <ownedComment xmi:type="uml:Comment" xmi:id="_rCtAYOdIEeykaaMCEfxHyA" annotatedElement="_9PMbcOdHEeykaaMCEfxHyA">
+      <body>Caso de uso referente ao login do ator Ecobiker no sistema, a autenticação do usuário será realizada pelo próprio Java com o Security.</body>
+    </ownedComment>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Aa-a8OdIEeykaaMCEfxHyA" name="Selecionar entrega">
+    <ownedComment xmi:type="uml:Comment" xmi:id="_2tQjAOdIEeykaaMCEfxHyA" annotatedElement="_Aa-a8OdIEeykaaMCEfxHyA">
+      <body>O ecobiker será apresentado a uma listagem de entregas para um determinado dia, assim ele poderá escolher quantas ele desejar realizar, após realizar a seleção de suas entregas, estas irão sair da listagem geral evitando um conflito entre os pedidos.&#xD;
+A rota calculada para o ecobiker leva em consideração o limite de 3 entregas, ou seja, caso ele venha a selecionar 5 entregas, será primeiro calculado a rota para as 3 primeiras e em seguida o sistema calcula o retorno para a central de distribuição para a coleta das 2 restantes.</body>
+    </ownedComment>
+    <extend xmi:type="uml:Extend" xmi:id="_HKYSMOdIEeykaaMCEfxHyA" extendedCase="_CW7KQOdIEeykaaMCEfxHyA" extensionLocation="_HKZgUOdIEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_CW7KQOdIEeykaaMCEfxHyA" name="Desselecionar entrega">
+    <ownedComment xmi:type="uml:Comment" xmi:id="_7qc1wOdIEeykaaMCEfxHyA" annotatedElement="_CW7KQOdIEeykaaMCEfxHyA">
+      <body>Como descrito no caso de uso &quot;Selecionar entregas&quot;, o ecobiker poderá selecionar a quais entregas ele irá realizar durante um dia de pedidos, tendo também a possibilidade de desseleção destas, caso venha a ocorrer.</body>
+    </ownedComment>
+    <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_HKZgUOdIEeykaaMCEfxHyA" name="ExtensionPoint1"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_Jg754OdIEeykaaMCEfxHyA" memberEnd="_Jg9vEOdIEeykaaMCEfxHyA _Jg-9MOdIEeykaaMCEfxHyA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Jg9IAOdIEeykaaMCEfxHyA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Jg9IAedIEeykaaMCEfxHyA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_Jg9vEOdIEeykaaMCEfxHyA" name="efetuar cadastro" type="_6tCnwOdHEeykaaMCEfxHyA" association="_Jg754OdIEeykaaMCEfxHyA"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_Jg-9MOdIEeykaaMCEfxHyA" name="ecobiker" type="_yX-aQOdHEeykaaMCEfxHyA" association="_Jg754OdIEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_L2zlEOdIEeykaaMCEfxHyA" memberEnd="_L20MIedIEeykaaMCEfxHyA _L20MIudIEeykaaMCEfxHyA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_L2zlEedIEeykaaMCEfxHyA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_L20MIOdIEeykaaMCEfxHyA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_L20MIedIEeykaaMCEfxHyA" name="efetuar login" type="_9PMbcOdHEeykaaMCEfxHyA" association="_L2zlEOdIEeykaaMCEfxHyA"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_L20MIudIEeykaaMCEfxHyA" name="ecobiker" type="_yX-aQOdHEeykaaMCEfxHyA" association="_L2zlEOdIEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_Mw_8cOdIEeykaaMCEfxHyA" memberEnd="_Mw_8c-dIEeykaaMCEfxHyA _Mw_8dOdIEeykaaMCEfxHyA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Mw_8cedIEeykaaMCEfxHyA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Mw_8cudIEeykaaMCEfxHyA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_Mw_8c-dIEeykaaMCEfxHyA" name="selecionar entrega" type="_Aa-a8OdIEeykaaMCEfxHyA" association="_Mw_8cOdIEeykaaMCEfxHyA"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_Mw_8dOdIEeykaaMCEfxHyA" name="ecobiker" type="_yX-aQOdHEeykaaMCEfxHyA" association="_Mw_8cOdIEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_TFc9EOdIEeykaaMCEfxHyA" name="Administrador"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_b0slIOdIEeykaaMCEfxHyA" memberEnd="_b0tMMOdIEeykaaMCEfxHyA _b0tMMedIEeykaaMCEfxHyA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_b0slIedIEeykaaMCEfxHyA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_b0slIudIEeykaaMCEfxHyA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedComment xmi:type="uml:Comment" xmi:id="_vloZAOdIEeykaaMCEfxHyA" annotatedElement="_b0slIOdIEeykaaMCEfxHyA">
+      <body>Validação do cadastros é realizada por meio de email, gerando um token para ativação do usuários.</body>
+    </ownedComment>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_b0tMMOdIEeykaaMCEfxHyA" name="efetuar cadastro" type="_6tCnwOdHEeykaaMCEfxHyA" association="_b0slIOdIEeykaaMCEfxHyA"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_b0tMMedIEeykaaMCEfxHyA" name="administrador" type="_TFc9EOdIEeykaaMCEfxHyA" association="_b0slIOdIEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_GSoVYOdJEeykaaMCEfxHyA" name="CadastroUsuario">
+    <generalization xmi:type="uml:Generalization" xmi:id="_1TXF8OdKEeykaaMCEfxHyA" general="_XIamwOdJEeykaaMCEfxHyA"/>
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_qFQ7kOenEey1FeRgAOxT_A" client="_GSoVYOdJEeykaaMCEfxHyA" supplier="_u4dCkOdLEeykaaMCEfxHyA" contract="_u4dCkOdLEeykaaMCEfxHyA"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_Lln5AOdJEeykaaMCEfxHyA" name="Controller"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_OZ1tEOdJEeykaaMCEfxHyA" name="Service"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_RSIv4OdJEeykaaMCEfxHyA" name="Model"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_XIamwOdJEeykaaMCEfxHyA" name="Usuario">
+    <packagedElement xmi:type="uml:Component" xmi:id="_bB-SQOdJEeykaaMCEfxHyA" name="Service"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_cQXYAOdJEeykaaMCEfxHyA" name="Model"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_dnMBAOdJEeykaaMCEfxHyA" name="Repository"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_bA10YOdKEeykaaMCEfxHyA" name="ConsumidorEntregas">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_eYLpYOenEey1FeRgAOxT_A" client="_bA10YOdKEeykaaMCEfxHyA" supplier="_XtrvoOdMEeykaaMCEfxHyA" contract="_XtrvoOdMEeykaaMCEfxHyA"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_hFdCMOdKEeykaaMCEfxHyA" name="Controller"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_i5J0cOdKEeykaaMCEfxHyA" name="Model"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_kolKsOdKEeykaaMCEfxHyA" name="Service"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_mQKMgOdKEeykaaMCEfxHyA" name="Repository"/>
+    <packagedElement xmi:type="uml:Usage" xmi:id="_xCM4gOenEey1FeRgAOxT_A" client="_bA10YOdKEeykaaMCEfxHyA" supplier="_bhzuQOdcEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_u4dCkOdLEeykaaMCEfxHyA" name="cadastroUsuario"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_XtrvoOdMEeykaaMCEfxHyA" name="entregas"/>
+  <packagedElement xmi:type="uml:Component" xmi:id="_j5LcIOdMEeykaaMCEfxHyA" name="cadastro.html">
+    <packagedElement xmi:type="uml:Usage" xmi:id="_n2YCIOenEey1FeRgAOxT_A" client="_j5LcIOdMEeykaaMCEfxHyA" supplier="_u4dCkOdLEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_N5t9YOdbEeykaaMCEfxHyA" name="cadastro-completo.html">
+    <realization xmi:type="uml:ComponentRealization" xmi:id="_032mUOelEey1FeRgAOxT_A" client="_j5LcIOdMEeykaaMCEfxHyA" supplier="_N5t9YOdbEeykaaMCEfxHyA" realizingClassifier="_j5LcIOdMEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_SUwlUOdbEeykaaMCEfxHyA" name="index.html"/>
+  <packagedElement xmi:type="uml:Component" xmi:id="_UGfosOdbEeykaaMCEfxHyA" name="login.html">
+    <realization xmi:type="uml:ComponentRealization" xmi:id="_jma6YOdbEeykaaMCEfxHyA" client="_SUwlUOdbEeykaaMCEfxHyA" supplier="_UGfosOdbEeykaaMCEfxHyA" realizingClassifier="_SUwlUOdbEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_WYECsOdbEeykaaMCEfxHyA" name="entregas.html">
+    <packagedElement xmi:type="uml:Usage" xmi:id="_cd8xUOenEey1FeRgAOxT_A" client="_WYECsOdbEeykaaMCEfxHyA" supplier="_XtrvoOdMEeykaaMCEfxHyA"/>
+    <realization xmi:type="uml:ComponentRealization" xmi:id="_jRP7oOdbEeykaaMCEfxHyA" client="_UGfosOdbEeykaaMCEfxHyA" supplier="_WYECsOdbEeykaaMCEfxHyA" realizingClassifier="_UGfosOdbEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_Y6s-kOdbEeykaaMCEfxHyA" name="entregas-invalidas.html">
+    <realization xmi:type="uml:ComponentRealization" xmi:id="_1NFPcOelEey1FeRgAOxT_A" client="_WYECsOdbEeykaaMCEfxHyA" supplier="_Y6s-kOdbEeykaaMCEfxHyA" realizingClassifier="_WYECsOdbEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_bqxScOdbEeykaaMCEfxHyA" name="minhas-entregas.html">
+    <packagedElement xmi:type="uml:Usage" xmi:id="_NGpQIOenEey1FeRgAOxT_A" client="_bqxScOdbEeykaaMCEfxHyA" supplier="_uen9kOdcEeykaaMCEfxHyA"/>
+    <realization xmi:type="uml:ComponentRealization" xmi:id="_1e278OelEey1FeRgAOxT_A" client="_WYECsOdbEeykaaMCEfxHyA" supplier="_bqxScOdbEeykaaMCEfxHyA" realizingClassifier="_WYECsOdbEeykaaMCEfxHyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_bhzuQOdcEeykaaMCEfxHyA" name="Google Directions API"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_uen9kOdcEeykaaMCEfxHyA" name="Maps JavaScript API"/>
+</uml:Model>
