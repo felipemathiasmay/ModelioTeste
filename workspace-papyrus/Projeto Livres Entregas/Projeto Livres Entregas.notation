@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_e7kZ8OWcEeyoAf_wNFgrjQ" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_e7kZ8eWcEeyoAf_wNFgrjQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_e7kZ8uWcEeyoAf_wNFgrjQ"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_e7lBAOWcEeyoAf_wNFgrjQ" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="Projeto%20Livres%20Entregas.uml#_e6GaUOWcEeyoAf_wNFgrjQ"/>
+    </styles>
+    <element xmi:type="uml:Model" href="Projeto%20Livres%20Entregas.uml#_e6GaUOWcEeyoAf_wNFgrjQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_e7uK8OWcEeyoAf_wNFgrjQ" type="PapyrusUMLComponentDiagram" name="Component Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_GSqKkOdJEeykaaMCEfxHyA" type="Component_PackagedElementShape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_GSqKkudJEeykaaMCEfxHyA" type="Component_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_GSqKk-dJEeykaaMCEfxHyA" type="Component_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_GSqKlOdJEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_GSqKledJEeykaaMCEfxHyA" type="Component_StructureCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_LlpuMOdJEeykaaMCEfxHyA" type="Component_PackagedElementShape_CCN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_LlqVQOdJEeykaaMCEfxHyA" type="Component_NameLabel_CCN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_LlqVQedJEeykaaMCEfxHyA" type="Component_FloatingNameLabel_CCN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_LlqVQudJEeykaaMCEfxHyA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_LlqVQ-dJEeykaaMCEfxHyA" type="Component_StructureCompartment_CCN">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_LlqVROdJEeykaaMCEfxHyA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LlqVRedJEeykaaMCEfxHyA"/>
+          </children>
+          <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_Lln5AOdJEeykaaMCEfxHyA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LlpuMedJEeykaaMCEfxHyA" x="14" y="18" width="141" height="41"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_OZ4JUOdJEeykaaMCEfxHyA" type="Component_PackagedElementShape_CCN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_OZ4wYOdJEeykaaMCEfxHyA" type="Component_NameLabel_CCN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_OZ4wYedJEeykaaMCEfxHyA" type="Component_FloatingNameLabel_CCN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_OZ4wYudJEeykaaMCEfxHyA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_OZ4wY-dJEeykaaMCEfxHyA" type="Component_StructureCompartment_CCN">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_OZ4wZOdJEeykaaMCEfxHyA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OZ4wZedJEeykaaMCEfxHyA"/>
+          </children>
+          <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_OZ1tEOdJEeykaaMCEfxHyA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OZ4JUedJEeykaaMCEfxHyA" x="174" y="18" width="141" height="41"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_RSLzMOdJEeykaaMCEfxHyA" type="Component_PackagedElementShape_CCN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_RSLzMudJEeykaaMCEfxHyA" type="Component_NameLabel_CCN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_RSLzM-dJEeykaaMCEfxHyA" type="Component_FloatingNameLabel_CCN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_RSLzNOdJEeykaaMCEfxHyA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_RSLzNedJEeykaaMCEfxHyA" type="Component_StructureCompartment_CCN">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_RSLzNudJEeykaaMCEfxHyA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RSLzN-dJEeykaaMCEfxHyA"/>
+          </children>
+          <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_RSIv4OdJEeykaaMCEfxHyA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RSLzMedJEeykaaMCEfxHyA" x="94" y="78" width="141" height="41"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_GSqKludJEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GSqKl-dJEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_GSoVYOdJEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GSqKkedJEeykaaMCEfxHyA" x="860" y="40" width="341" height="201"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_XIbN0OdJEeykaaMCEfxHyA" type="Component_PackagedElementShape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_XIb04OdJEeykaaMCEfxHyA" type="Component_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_XIb04edJEeykaaMCEfxHyA" type="Component_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_XIb04udJEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_XIb04-dJEeykaaMCEfxHyA" type="Component_StructureCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_bCB8oOdJEeykaaMCEfxHyA" type="Component_PackagedElementShape_CCN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_bCB8oudJEeykaaMCEfxHyA" type="Component_NameLabel_CCN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_bCB8o-dJEeykaaMCEfxHyA" type="Component_FloatingNameLabel_CCN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_bCB8pOdJEeykaaMCEfxHyA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_bCB8pedJEeykaaMCEfxHyA" type="Component_StructureCompartment_CCN">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_bCB8pudJEeykaaMCEfxHyA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bCB8p-dJEeykaaMCEfxHyA"/>
+          </children>
+          <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_bB-SQOdJEeykaaMCEfxHyA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bCB8oedJEeykaaMCEfxHyA" x="22" y="18" width="141" height="41"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_cQcQgOdJEeykaaMCEfxHyA" type="Component_PackagedElementShape_CCN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_cQcQgudJEeykaaMCEfxHyA" type="Component_NameLabel_CCN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_cQcQg-dJEeykaaMCEfxHyA" type="Component_FloatingNameLabel_CCN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_cQcQhOdJEeykaaMCEfxHyA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_cQcQhedJEeykaaMCEfxHyA" type="Component_StructureCompartment_CCN">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_cQcQhudJEeykaaMCEfxHyA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cQcQh-dJEeykaaMCEfxHyA"/>
+          </children>
+          <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_cQXYAOdJEeykaaMCEfxHyA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cQcQgedJEeykaaMCEfxHyA" x="22" y="78" width="141" height="41"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_dnQScOdJEeykaaMCEfxHyA" type="Component_PackagedElementShape_CCN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_dnQScudJEeykaaMCEfxHyA" type="Component_NameLabel_CCN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_dnQSc-dJEeykaaMCEfxHyA" type="Component_FloatingNameLabel_CCN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_dnQSdOdJEeykaaMCEfxHyA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_dnQSdedJEeykaaMCEfxHyA" type="Component_StructureCompartment_CCN">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_dnQSdudJEeykaaMCEfxHyA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dnQSd-dJEeykaaMCEfxHyA"/>
+          </children>
+          <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_dnMBAOdJEeykaaMCEfxHyA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dnQScedJEeykaaMCEfxHyA" x="182" y="38" width="141" height="41"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_XIb05OdJEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XIb05edJEeykaaMCEfxHyA"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_XIeRIOdJEeykaaMCEfxHyA" type="compartment_shape_display">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_XIeRIedJEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XIeRIudJEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_XIamwOdJEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XIbN0edJEeykaaMCEfxHyA" x="860" y="280" width="341" height="181"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_bA2bcOdKEeykaaMCEfxHyA" type="Component_PackagedElementShape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_bA2bcudKEeykaaMCEfxHyA" type="Component_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_bA3CgOdKEeykaaMCEfxHyA" type="Component_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_bA3CgedKEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_bA3CgudKEeykaaMCEfxHyA" type="Component_StructureCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_hFihwOdKEeykaaMCEfxHyA" type="Component_PackagedElementShape_CCN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_hFihwudKEeykaaMCEfxHyA" type="Component_NameLabel_CCN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_hFihw-dKEeykaaMCEfxHyA" type="Component_FloatingNameLabel_CCN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_hFihxOdKEeykaaMCEfxHyA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_hFihxedKEeykaaMCEfxHyA" type="Component_StructureCompartment_CCN">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_hFihxudKEeykaaMCEfxHyA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hFihx-dKEeykaaMCEfxHyA"/>
+          </children>
+          <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_hFdCMOdKEeykaaMCEfxHyA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hFihwedKEeykaaMCEfxHyA" x="14" y="18" width="141" height="41"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_i5Os8OdKEeykaaMCEfxHyA" type="Component_PackagedElementShape_CCN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_i5PUAOdKEeykaaMCEfxHyA" type="Component_NameLabel_CCN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_i5PUAedKEeykaaMCEfxHyA" type="Component_FloatingNameLabel_CCN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_i5PUAudKEeykaaMCEfxHyA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_i5PUA-dKEeykaaMCEfxHyA" type="Component_StructureCompartment_CCN">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_i5PUBOdKEeykaaMCEfxHyA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i5PUBedKEeykaaMCEfxHyA"/>
+          </children>
+          <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_i5J0cOdKEeykaaMCEfxHyA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i5Os8edKEeykaaMCEfxHyA" x="14" y="78" width="141" height="41"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_korRUOdKEeykaaMCEfxHyA" type="Component_PackagedElementShape_CCN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_korRUudKEeykaaMCEfxHyA" type="Component_NameLabel_CCN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_korRU-dKEeykaaMCEfxHyA" type="Component_FloatingNameLabel_CCN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_korRVOdKEeykaaMCEfxHyA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_korRVedKEeykaaMCEfxHyA" type="Component_StructureCompartment_CCN">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_korRVudKEeykaaMCEfxHyA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_korRV-dKEeykaaMCEfxHyA"/>
+          </children>
+          <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_kolKsOdKEeykaaMCEfxHyA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_korRUedKEeykaaMCEfxHyA" x="174" y="18" width="141" height="41"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_mQQTIOdKEeykaaMCEfxHyA" type="Component_PackagedElementShape_CCN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_mQQTIudKEeykaaMCEfxHyA" type="Component_NameLabel_CCN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_mQQTI-dKEeykaaMCEfxHyA" type="Component_FloatingNameLabel_CCN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_mQQTJOdKEeykaaMCEfxHyA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_mQQTJedKEeykaaMCEfxHyA" type="Component_StructureCompartment_CCN">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_mQQTJudKEeykaaMCEfxHyA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mQQTJ-dKEeykaaMCEfxHyA"/>
+          </children>
+          <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_mQKMgOdKEeykaaMCEfxHyA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mQQTIedKEeykaaMCEfxHyA" x="174" y="78" width="141" height="41"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_bA3Cg-dKEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bA3ChOdKEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_bA10YOdKEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bA2bcedKEeykaaMCEfxHyA" x="860" y="520" width="341" height="181"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_j5MqQOdMEeykaaMCEfxHyA" type="Component_PackagedElementShape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_j5MqQudMEeykaaMCEfxHyA" type="Component_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_j5MqQ-dMEeykaaMCEfxHyA" type="Component_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_j5MqROdMEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_j5MqRedMEeykaaMCEfxHyA" type="Component_StructureCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_j5MqRudMEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j5MqR-dMEeykaaMCEfxHyA"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_wvitIOelEey1FeRgAOxT_A" type="compartment_shape_display">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_wvitIeelEey1FeRgAOxT_A"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wvitIuelEey1FeRgAOxT_A"/>
+      </children>
+      <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_j5LcIOdMEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j5MqQedMEeykaaMCEfxHyA" x="480" y="180" width="141" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_N548gOdbEeykaaMCEfxHyA" type="Component_PackagedElementShape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_N55jkOdbEeykaaMCEfxHyA" type="Component_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_N55jkedbEeykaaMCEfxHyA" type="Component_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_N55jkudbEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_N55jk-dbEeykaaMCEfxHyA" type="Component_StructureCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_N55jlOdbEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N55jledbEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_N5t9YOdbEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N548gedbEeykaaMCEfxHyA" x="460" y="260" width="181" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_SUxzcOdbEeykaaMCEfxHyA" type="Component_PackagedElementShape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_SUxzcudbEeykaaMCEfxHyA" type="Component_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_SUxzc-dbEeykaaMCEfxHyA" type="Component_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_SUxzdOdbEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_SUxzdedbEeykaaMCEfxHyA" type="Component_StructureCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_SUxzdudbEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SUxzd-dbEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_SUwlUOdbEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SUxzcedbEeykaaMCEfxHyA" x="200" y="300" width="161" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_UGg20OdbEeykaaMCEfxHyA" type="Component_PackagedElementShape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_UGg20udbEeykaaMCEfxHyA" type="Component_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_UGg20-dbEeykaaMCEfxHyA" type="Component_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UGg21OdbEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_UGg21edbEeykaaMCEfxHyA" type="Component_StructureCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_UGg21udbEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UGg21-dbEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_UGfosOdbEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UGg20edbEeykaaMCEfxHyA" x="320" y="380" width="141" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_WYFQ0OdbEeykaaMCEfxHyA" type="Component_PackagedElementShape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_WYFQ0udbEeykaaMCEfxHyA" type="Component_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_WYFQ0-dbEeykaaMCEfxHyA" type="Component_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_WYFQ1OdbEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_WYFQ1edbEeykaaMCEfxHyA" type="Component_StructureCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_WYFQ1udbEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WYFQ1-dbEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_WYECsOdbEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WYFQ0edbEeykaaMCEfxHyA" x="440" y="460" width="141" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_Y6tloOdbEeykaaMCEfxHyA" type="Component_PackagedElementShape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_Y6tloudbEeykaaMCEfxHyA" type="Component_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_Y6tlo-dbEeykaaMCEfxHyA" type="Component_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Y6tlpOdbEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Y6tlpedbEeykaaMCEfxHyA" type="Component_StructureCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_Y6tlpudbEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Y6tlp-dbEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_Y6s-kOdbEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Y6tloedbEeykaaMCEfxHyA" x="340" y="540" width="161" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_bqx5gOdbEeykaaMCEfxHyA" type="Component_PackagedElementShape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_bqx5gudbEeykaaMCEfxHyA" type="Component_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_bqx5g-dbEeykaaMCEfxHyA" type="Component_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_bqx5hOdbEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_bqx5hedbEeykaaMCEfxHyA" type="Component_StructureCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_bqx5hudbEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bqx5h-dbEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:Component" href="Projeto%20Livres%20Entregas.uml#_bqxScOdbEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bqx5gedbEeykaaMCEfxHyA" x="520" y="540" width="161" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_mE4rcOdcEeykaaMCEfxHyA" type="Interface_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_mE4rcudcEeykaaMCEfxHyA" type="Interface_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_mE4rc-dcEeykaaMCEfxHyA" x="20" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_mE4rdOdcEeykaaMCEfxHyA" type="Interface_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_mE4rdedcEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <element xmi:type="uml:Interface" href="Projeto%20Livres%20Entregas.uml#_bhzuQOdcEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bh0VUedcEeykaaMCEfxHyA" x="1280" y="620" width="20" height="20"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_xFbAsOdcEeykaaMCEfxHyA" type="Interface_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_xFbAsudcEeykaaMCEfxHyA" type="Interface_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_xFbAs-dcEeykaaMCEfxHyA" x="-20" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_xFbAtOdcEeykaaMCEfxHyA" type="Interface_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_xFbAtedcEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <styles xmi:type="notation:IntValueStyle" xmi:id="_QgdroOenEey1FeRgAOxT_A" name="shapeDirection"/>
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ROmkAOenEey1FeRgAOxT_A" name="shapeVisibility"/>
+      <element xmi:type="uml:Interface" href="Projeto%20Livres%20Entregas.uml#_uen9kOdcEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ueokoedcEeykaaMCEfxHyA" x="580" y="640" width="20" height="20"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_so4H0OenEey1FeRgAOxT_A" type="Interface_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_so4H0uenEey1FeRgAOxT_A" type="Interface_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_so4H0-enEey1FeRgAOxT_A" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_so4H1OenEey1FeRgAOxT_A" type="Interface_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_so4H1eenEey1FeRgAOxT_A" y="15"/>
+      </children>
+      <element xmi:type="uml:Interface" href="Projeto%20Livres%20Entregas.uml#_u4dCkOdLEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u4e3wedLEeykaaMCEfxHyA" x="740" y="160" width="20" height="20"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_m-HH8OeoEey1FeRgAOxT_A" type="Interface_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_m-HH8ueoEey1FeRgAOxT_A" type="Interface_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_m-HH8-eoEey1FeRgAOxT_A" y="15"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_m-HH9OeoEey1FeRgAOxT_A" type="Interface_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_m-HH9eeoEey1FeRgAOxT_A" y="15"/>
+      </children>
+      <element xmi:type="uml:Interface" href="Projeto%20Livres%20Entregas.uml#_XtrvoOdMEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XtsWsedMEeykaaMCEfxHyA" x="720" y="520" width="20" height="20"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_e7uK8eWcEeyoAf_wNFgrjQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_e7uK8uWcEeyoAf_wNFgrjQ"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_e7uK8-WcEeyoAf_wNFgrjQ" diagramKindId="org.eclipse.papyrus.uml.diagram.component.root.package">
+      <owner xmi:type="uml:Model" href="Projeto%20Livres%20Entregas.uml#_e6GaUOWcEeyoAf_wNFgrjQ"/>
+    </styles>
+    <styles xmi:type="notation:BooleanValueStyle" xmi:id="_TiR20OenEey1FeRgAOxT_A" name="rulergrid.viewgrid"/>
+    <element xmi:type="uml:Model" href="Projeto%20Livres%20Entregas.uml#_e6GaUOWcEeyoAf_wNFgrjQ"/>
+    <edges xmi:type="notation:Connector" xmi:id="_1TeasOdKEeykaaMCEfxHyA" type="Generalization_Edge" source="_GSqKkOdJEeykaaMCEfxHyA" target="_XIbN0OdJEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_1Teas-dKEeykaaMCEfxHyA" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_MKVy0OdNEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_1TeatOdKEeykaaMCEfxHyA" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_1TeasedKEeykaaMCEfxHyA"/>
+      <element xmi:type="uml:Generalization" href="Projeto%20Livres%20Entregas.uml#_1TXF8OdKEeykaaMCEfxHyA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1TeasudKEeykaaMCEfxHyA" points="[1240, 241, -643984, -643984]$[1140, 280, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1TxVoOdKEeykaaMCEfxHyA" id="(0.5278592375366569,1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1TxVoedKEeykaaMCEfxHyA" id="(0.5278592375366569,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_jRaTsOdbEeykaaMCEfxHyA" type="ComponentRealization_Edge" source="_UGg20OdbEeykaaMCEfxHyA" target="_WYFQ0OdbEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_jRa6wOdbEeykaaMCEfxHyA" type="ComponentRealization_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_yO3KcOdbEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jRa6wedbEeykaaMCEfxHyA" y="58"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_jRa6wudbEeykaaMCEfxHyA" type="ComponentRealization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_yPBigOdbEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jRa6w-dbEeykaaMCEfxHyA" y="28"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_jRaTsedbEeykaaMCEfxHyA"/>
+      <element xmi:type="uml:ComponentRealization" href="Projeto%20Livres%20Entregas.uml#_jRP7oOdbEeykaaMCEfxHyA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_jRaTsudbEeykaaMCEfxHyA" points="[390, 421, -643984, -643984]$[490, 460, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_jRzVQOdbEeykaaMCEfxHyA" id="(0.5673758865248227,1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_jRzVQedbEeykaaMCEfxHyA" id="(0.425531914893617,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_jml5gOdbEeykaaMCEfxHyA" type="ComponentRealization_Edge" source="_SUxzcOdbEeykaaMCEfxHyA" target="_UGg20OdbEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_jml5g-dbEeykaaMCEfxHyA" type="ComponentRealization_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_yOMcEOdbEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jml5hOdbEeykaaMCEfxHyA" y="58"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_jml5hedbEeykaaMCEfxHyA" type="ComponentRealization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_yOXbMOdbEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jml5hudbEeykaaMCEfxHyA" y="28"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_jml5gedbEeykaaMCEfxHyA"/>
+      <element xmi:type="uml:ComponentRealization" href="Projeto%20Livres%20Entregas.uml#_jma6YOdbEeykaaMCEfxHyA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_jml5gudbEeykaaMCEfxHyA" points="[270, 341, -643984, -643984]$[370, 421, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_jm9F4OdbEeykaaMCEfxHyA" id="(0.4968944099378882,1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_jm9F4edbEeykaaMCEfxHyA" id="(0.425531914893617,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_kajtEOdbEeykaaMCEfxHyA" type="ComponentRealization_Edge" source="_SUxzcOdbEeykaaMCEfxHyA" target="_j5MqQOdMEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_kajtE-dbEeykaaMCEfxHyA" type="ComponentRealization_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_yOhzQOdbEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_kajtFOdbEeykaaMCEfxHyA" x="1" y="58"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_kajtFedbEeykaaMCEfxHyA" type="ComponentRealization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_yOsLUOdbEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_kajtFudbEeykaaMCEfxHyA" y="29"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_kajtEedbEeykaaMCEfxHyA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kajtEudbEeykaaMCEfxHyA" points="[330, 341, -643984, -643984]$[450, 280, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ka65cOdbEeykaaMCEfxHyA" id="(0.4968944099378882,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ka65cedbEeykaaMCEfxHyA" id="(0.0,0.4878048780487805)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_04OZwOelEey1FeRgAOxT_A" type="ComponentRealization_Edge" source="_j5MqQOdMEeykaaMCEfxHyA" target="_N548gOdbEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_04PA0OelEey1FeRgAOxT_A" type="ComponentRealization_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_4VntsOelEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_04PA0eelEey1FeRgAOxT_A" y="60"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_04PA0uelEey1FeRgAOxT_A" type="ComponentRealization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_4V3lUOelEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_04PA0-elEey1FeRgAOxT_A" y="30"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_04OZweelEey1FeRgAOxT_A"/>
+      <element xmi:type="uml:ComponentRealization" href="Projeto%20Livres%20Entregas.uml#_032mUOelEey1FeRgAOxT_A"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_04OZwuelEey1FeRgAOxT_A" points="[560, 220, -643984, -643984]$[560, 240, -643984, -643984]$[560, 260, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_049ZkOelEey1FeRgAOxT_A" id="(0.5673758865248227,0.975609756097561)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_049ZkeelEey1FeRgAOxT_A" id="(0.5524861878453039,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_1NZYgOelEey1FeRgAOxT_A" type="ComponentRealization_Edge" source="_WYFQ0OdbEeykaaMCEfxHyA" target="_Y6tloOdbEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_1NZYg-elEey1FeRgAOxT_A" type="ComponentRealization_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_1NZ_kOelEey1FeRgAOxT_A" y="60"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_1NZ_keelEey1FeRgAOxT_A" type="ComponentRealization_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_1NZ_kuelEey1FeRgAOxT_A" y="30"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_1NZYgeelEey1FeRgAOxT_A"/>
+      <element xmi:type="uml:ComponentRealization" href="Projeto%20Livres%20Entregas.uml#_1NFPcOelEey1FeRgAOxT_A"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1NZYguelEey1FeRgAOxT_A" points="[520, 500, -643984, -643984]$[440, 540, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1OFVAOelEey1FeRgAOxT_A" id="(0.425531914893617,0.975609756097561)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1OFVAeelEey1FeRgAOxT_A" id="(0.6211180124223602,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_1fJ24OelEey1FeRgAOxT_A" type="ComponentRealization_Edge" source="_WYFQ0OdbEeykaaMCEfxHyA" target="_bqx5gOdbEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_1fJ24-elEey1FeRgAOxT_A" type="ComponentRealization_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_1fKd8OelEey1FeRgAOxT_A" y="60"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_1fKd8eelEey1FeRgAOxT_A" type="ComponentRealization_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_1fKd8uelEey1FeRgAOxT_A" y="30"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_1fJ24eelEey1FeRgAOxT_A"/>
+      <element xmi:type="uml:ComponentRealization" href="Projeto%20Livres%20Entregas.uml#_1e278OelEey1FeRgAOxT_A"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1fJ24uelEey1FeRgAOxT_A" points="[500, 500, -643984, -643984]$[560, 540, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1fw64OelEey1FeRgAOxT_A" id="(0.5673758865248227,0.975609756097561)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1fw64eelEey1FeRgAOxT_A" id="(0.2484472049689441,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_NG2EcOenEey1FeRgAOxT_A" type="Usage_Edge" source="_bqx5gOdbEeykaaMCEfxHyA" target="_xFbAsOdcEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_NG2Ec-enEey1FeRgAOxT_A" type="Usage_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_OQZGcOenEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NG2EdOenEey1FeRgAOxT_A" y="60"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_NG2EdeenEey1FeRgAOxT_A" type="Usage_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_OQksoOenEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NG2EduenEey1FeRgAOxT_A" y="30"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_NG2EceenEey1FeRgAOxT_A"/>
+      <element xmi:type="uml:Usage" href="Projeto%20Livres%20Entregas.uml#_NGpQIOenEey1FeRgAOxT_A"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_NG2EcuenEey1FeRgAOxT_A" points="[580, 580, -643984, -643984]$[580, 640, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NHQUIOenEey1FeRgAOxT_A" id="(0.37267080745341613,0.975609756097561)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NHQUIeenEey1FeRgAOxT_A" id="(0.0,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_ceIXgOenEey1FeRgAOxT_A" type="Usage_Edge" source="_WYFQ0OdbEeykaaMCEfxHyA" target="_m-HH8OeoEey1FeRgAOxT_A">
+      <children xmi:type="notation:DecorationNode" xmi:id="_ceIXg-enEey1FeRgAOxT_A" type="Usage_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_nRMcAOeoEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ceIXhOenEey1FeRgAOxT_A" y="59"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_ceIXheenEey1FeRgAOxT_A" type="Usage_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_nRW0EOeoEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ceIXhuenEey1FeRgAOxT_A" x="-6" y="20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_ceIXgeenEey1FeRgAOxT_A"/>
+      <element xmi:type="uml:Usage" href="Projeto%20Livres%20Entregas.uml#_cd8xUOenEey1FeRgAOxT_A"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ceIXguenEey1FeRgAOxT_A" points="[580, 480, -643984, -643984]$[720, 540, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cegyAOenEey1FeRgAOxT_A" id="(1.0,0.4878048780487805)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cegyAeenEey1FeRgAOxT_A" id="(0.0,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_eYWogOenEey1FeRgAOxT_A" type="InterfaceRealization_Edge" source="_bA2bcOdKEeykaaMCEfxHyA" target="_m-HH8OeoEey1FeRgAOxT_A">
+      <children xmi:type="notation:DecorationNode" xmi:id="_eYXPkOenEey1FeRgAOxT_A" type="InterfaceRealization_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_nRhzMOeoEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_eYXPkeenEey1FeRgAOxT_A" x="-1" y="58"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_eYXPkuenEey1FeRgAOxT_A" type="InterfaceRealization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_nRsLQOeoEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_eYXPk-enEey1FeRgAOxT_A" x="-1" y="28"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_eYWogeenEey1FeRgAOxT_A"/>
+      <element xmi:type="uml:InterfaceRealization" href="Projeto%20Livres%20Entregas.uml#_eYLpYOenEey1FeRgAOxT_A"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_eYWoguenEey1FeRgAOxT_A" points="[860, 620, -643984, -643984]$[740, 560, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_eYvDAOenEey1FeRgAOxT_A" id="(0.0,0.5524861878453039)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_eYvDAeenEey1FeRgAOxT_A" id="(1.0,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_n2kPYOenEey1FeRgAOxT_A" type="Usage_Edge" source="_j5MqQOdMEeykaaMCEfxHyA" target="_so4H0OenEey1FeRgAOxT_A">
+      <children xmi:type="notation:DecorationNode" xmi:id="_n2kPY-enEey1FeRgAOxT_A" type="Usage_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rhMuEOenEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_n2kPZOenEey1FeRgAOxT_A" x="1" y="58"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_n2kPZeenEey1FeRgAOxT_A" type="Usage_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rhZiYOenEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_n2kPZuenEey1FeRgAOxT_A" y="29"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_n2kPYeenEey1FeRgAOxT_A"/>
+      <element xmi:type="uml:Usage" href="Projeto%20Livres%20Entregas.uml#_n2YCIOenEey1FeRgAOxT_A"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_n2kPYuenEey1FeRgAOxT_A" points="[620, 200, -643984, -643984]$[740, 180, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_n27bwOenEey1FeRgAOxT_A" id="(1.0,0.4878048780487805)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_n27bweenEey1FeRgAOxT_A" id="(0.0,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_qFchwOenEey1FeRgAOxT_A" type="InterfaceRealization_Edge" source="_GSqKkOdJEeykaaMCEfxHyA" target="_so4H0OenEey1FeRgAOxT_A">
+      <children xmi:type="notation:DecorationNode" xmi:id="_qFchw-enEey1FeRgAOxT_A" type="InterfaceRealization_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rhj6cOenEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_qFchxOenEey1FeRgAOxT_A" y="60"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_qFchxeenEey1FeRgAOxT_A" type="InterfaceRealization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rhu5kOenEey1FeRgAOxT_A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_qFchxuenEey1FeRgAOxT_A" y="30"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_qFchweenEey1FeRgAOxT_A"/>
+      <element xmi:type="uml:InterfaceRealization" href="Projeto%20Livres%20Entregas.uml#_qFQ7kOenEey1FeRgAOxT_A"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qFchwuenEey1FeRgAOxT_A" points="[860, 180, -643984, -643984]$[760, 180, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qFzHEOenEey1FeRgAOxT_A" id="(0.0,0.6965174129353234)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qFzHEeenEey1FeRgAOxT_A" id="(1.0,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_xCX3oOenEey1FeRgAOxT_A" type="Usage_Edge" source="_bA2bcOdKEeykaaMCEfxHyA" target="_mE4rcOdcEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_xCX3o-enEey1FeRgAOxT_A" type="Usage_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_xCX3pOenEey1FeRgAOxT_A" y="60"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_xCX3peenEey1FeRgAOxT_A" type="Usage_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_xCX3puenEey1FeRgAOxT_A" y="30"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_xCX3oeenEey1FeRgAOxT_A"/>
+      <element xmi:type="uml:Usage" href="Projeto%20Livres%20Entregas.uml#_xCM4gOenEey1FeRgAOxT_A"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xCX3ouenEey1FeRgAOxT_A" points="[1200, 620, -643984, -643984]$[1280, 620, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xCuc8OenEey1FeRgAOxT_A" id="(0.9994134897360702,0.5524861878453039)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xCuc8eenEey1FeRgAOxT_A" id="(0.0,0.0)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_e70RkOWcEeyoAf_wNFgrjQ" type="UseCase" name="Use Case Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_yYL1oOdHEeykaaMCEfxHyA" type="Actor_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_yYTKYOdHEeykaaMCEfxHyA" type="Actor_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yYTKYedHEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_yYTKYudHEeykaaMCEfxHyA" type="Actor_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yYTKY-dHEeykaaMCEfxHyA" x="20" y="100"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_yYTKZOdHEeykaaMCEfxHyA" type="Actor_QualifiedNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yYTKZedHEeykaaMCEfxHyA" x="20" y="80"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_yYTxcOdHEeykaaMCEfxHyA" type="Actor_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yYTxcedHEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <element xmi:type="uml:Actor" href="Projeto%20Livres%20Entregas.uml#_yX-aQOdHEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yYMcsOdHEeykaaMCEfxHyA" x="120" y="120" width="40" height="76"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_6tD14OdHEeykaaMCEfxHyA" type="UseCase_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_6tD14udHEeykaaMCEfxHyA" type="UseCase_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_6tD14-dHEeykaaMCEfxHyA" type="UseCase_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_6tD15OdHEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_6tD15edHEeykaaMCEfxHyA" type="UseCase_ExtensionPointCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_6tD15udHEeykaaMCEfxHyA"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_6tD15-dHEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6tD16OdHEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:UseCase" href="Projeto%20Livres%20Entregas.uml#_6tCnwOdHEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6tD14edHEeykaaMCEfxHyA" x="220" y="60"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_9PNCgOdHEeykaaMCEfxHyA" type="UseCase_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_9PNpkOdHEeykaaMCEfxHyA" type="UseCase_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_9PNpkedHEeykaaMCEfxHyA" type="UseCase_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_9PNpkudHEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_9PNpk-dHEeykaaMCEfxHyA" type="UseCase_ExtensionPointCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_9PNplOdHEeykaaMCEfxHyA"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_9PNpledHEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9PNpludHEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:UseCase" href="Projeto%20Livres%20Entregas.uml#_9PMbcOdHEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9PNCgedHEeykaaMCEfxHyA" x="240" y="140"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_Aa_pEOdIEeykaaMCEfxHyA" type="UseCase_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_Aa_pEudIEeykaaMCEfxHyA" type="UseCase_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_AbAQIOdIEeykaaMCEfxHyA" type="UseCase_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_AbAQIedIEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_AbAQIudIEeykaaMCEfxHyA" type="UseCase_ExtensionPointCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_AbAQI-dIEeykaaMCEfxHyA"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_AbAQJOdIEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AbAQJedIEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:UseCase" href="Projeto%20Livres%20Entregas.uml#_Aa-a8OdIEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Aa_pEedIEeykaaMCEfxHyA" x="220" y="220"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_CW7xUOdIEeykaaMCEfxHyA" type="UseCase_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_CW7xUudIEeykaaMCEfxHyA" type="UseCase_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_CW7xU-dIEeykaaMCEfxHyA" type="UseCase_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_CW8YYOdIEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_CW8YYedIEeykaaMCEfxHyA" type="UseCase_ExtensionPointCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_CW8YYudIEeykaaMCEfxHyA"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_CW8YY-dIEeykaaMCEfxHyA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CW8YZOdIEeykaaMCEfxHyA"/>
+      </children>
+      <element xmi:type="uml:UseCase" href="Projeto%20Livres%20Entregas.uml#_CW7KQOdIEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CW7xUedIEeykaaMCEfxHyA" x="340" y="340"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_TFeLMOdIEeykaaMCEfxHyA" type="Actor_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_TFeLMudIEeykaaMCEfxHyA" type="Actor_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_TFeLM-dIEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_TFeLNOdIEeykaaMCEfxHyA" type="Actor_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_TFeLNedIEeykaaMCEfxHyA" x="20" y="100"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_TFeLNudIEeykaaMCEfxHyA" type="Actor_QualifiedNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_TFeLN-dIEeykaaMCEfxHyA" x="20" y="80"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_TFeLOOdIEeykaaMCEfxHyA" type="Actor_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_TFeLOedIEeykaaMCEfxHyA" y="15"/>
+      </children>
+      <element xmi:type="uml:Actor" href="Projeto%20Livres%20Entregas.uml#_TFc9EOdIEeykaaMCEfxHyA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TFeLMedIEeykaaMCEfxHyA" x="560" y="60" width="41" height="81"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_e70RkeWcEeyoAf_wNFgrjQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_e70RkuWcEeyoAf_wNFgrjQ"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_e70Rk-WcEeyoAf_wNFgrjQ" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+      <owner xmi:type="uml:Model" href="Projeto%20Livres%20Entregas.uml#_e6GaUOWcEeyoAf_wNFgrjQ"/>
+    </styles>
+    <styles xmi:type="notation:BooleanValueStyle" xmi:id="_qkLPsOeoEey1FeRgAOxT_A" name="rulergrid.viewgrid"/>
+    <element xmi:type="uml:Model" href="Projeto%20Livres%20Entregas.uml#_e6GaUOWcEeyoAf_wNFgrjQ"/>
+    <edges xmi:type="notation:Connector" xmi:id="_HKiqQOdIEeykaaMCEfxHyA" type="Extend_Edge" source="_Aa_pEOdIEeykaaMCEfxHyA" target="_CW7xUOdIEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_HKjRUudIEeykaaMCEfxHyA" type="Extend_KeywordLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_HgSQwOdIEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HKjRU-dIEeykaaMCEfxHyA" x="1" y="18"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_HKjRVOdIEeykaaMCEfxHyA" type="Extend_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_HgXwUOdIEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HKjRVedIEeykaaMCEfxHyA" x="1" y="-18"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_HKjRUOdIEeykaaMCEfxHyA"/>
+      <element xmi:type="uml:Extend" href="Projeto%20Livres%20Entregas.uml#_HKYSMOdIEeykaaMCEfxHyA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HKjRUedIEeykaaMCEfxHyA" points="[280, 265, -643984, -643984]$[370, 328, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HLH5EOdIEeykaaMCEfxHyA" id="(0.7142857142857143,0.95)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HLH5EedIEeykaaMCEfxHyA" id="(0.272108843537415,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_Jg_kQOdIEeykaaMCEfxHyA" type="Association_Edge" source="_yYL1oOdHEeykaaMCEfxHyA" target="_6tD14OdHEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_Jg_kQ-dIEeykaaMCEfxHyA" type="Association_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_R4zjwOdIEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Jg_kROdIEeykaaMCEfxHyA" y="39"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_JhALUOdIEeykaaMCEfxHyA" type="Association_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_R44cQOdIEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JhALUedIEeykaaMCEfxHyA" x="-1" y="-17"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_Jg_kQedIEeykaaMCEfxHyA"/>
+      <element xmi:type="uml:Association" href="Projeto%20Livres%20Entregas.uml#_Jg754OdIEeykaaMCEfxHyA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Jg_kQudIEeykaaMCEfxHyA" points="[111, 145, -643984, -643984]$[214, 85, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JhRREOdIEeykaaMCEfxHyA" id="(1.0,0.2631578947368421)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JhRREedIEeykaaMCEfxHyA" id="(0.0,0.6666666666666666)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_L20zMOdIEeykaaMCEfxHyA" type="Association_Edge" source="_yYL1oOdHEeykaaMCEfxHyA" target="_9PNCgOdHEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_L20zM-dIEeykaaMCEfxHyA" type="Association_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_R49UwOdIEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_L20zNOdIEeykaaMCEfxHyA" x="1" y="39"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_L20zNedIEeykaaMCEfxHyA" type="Association_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_R5C0UOdIEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_L20zNudIEeykaaMCEfxHyA" x="2" y="-17"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_L20zMedIEeykaaMCEfxHyA"/>
+      <element xmi:type="uml:Association" href="Projeto%20Livres%20Entregas.uml#_L2zlEOdIEeykaaMCEfxHyA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_L20zMudIEeykaaMCEfxHyA" points="[141, 145, -643984, -643984]$[230, 155, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_L3BAcOdIEeykaaMCEfxHyA" id="(1.0,0.5263157894736842)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_L3BAcedIEeykaaMCEfxHyA" id="(0.0,0.48)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_MxAjgOdIEeykaaMCEfxHyA" type="Association_Edge" source="_yYL1oOdHEeykaaMCEfxHyA" target="_Aa_pEOdIEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_MxBKkOdIEeykaaMCEfxHyA" type="Association_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_R5IT4OdIEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MxBKkedIEeykaaMCEfxHyA" x="1" y="38"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_MxBKkudIEeykaaMCEfxHyA" type="Association_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_R5NMYOdIEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MxBKk-dIEeykaaMCEfxHyA" x="1" y="-18"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_MxAjgedIEeykaaMCEfxHyA"/>
+      <element xmi:type="uml:Association" href="Projeto%20Livres%20Entregas.uml#_Mw_8cOdIEeykaaMCEfxHyA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_MxAjgudIEeykaaMCEfxHyA" points="[130, 160, -643984, -643984]$[230, 214, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MxP0EOdIEeykaaMCEfxHyA" id="(1.0,0.7894736842105263)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MxP0EedIEeykaaMCEfxHyA" id="(0.14285714285714285,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_b0tzQOdIEeykaaMCEfxHyA" type="Association_Edge" source="_TFeLMOdIEeykaaMCEfxHyA" target="_6tD14OdHEeykaaMCEfxHyA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_b0tzQ-dIEeykaaMCEfxHyA" type="Association_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_9KE1cOdIEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_b0tzROdIEeykaaMCEfxHyA" x="-2" y="37"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_b0tzRedIEeykaaMCEfxHyA" type="Association_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_9KKVAOdIEeykaaMCEfxHyA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_b0tzRudIEeykaaMCEfxHyA" x="-1" y="-18"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_b0tzQedIEeykaaMCEfxHyA"/>
+      <element xmi:type="uml:Association" href="Projeto%20Livres%20Entregas.uml#_b0slIOdIEeykaaMCEfxHyA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_b0tzQudIEeykaaMCEfxHyA" points="[550, 85, -643984, -643984]$[350, 74, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_b06nkOdIEeykaaMCEfxHyA" id="(0.0,0.49382716049382713)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_b07OoOdIEeykaaMCEfxHyA" id="(1.0,0.49333333333333323)"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>
